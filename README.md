@@ -8,7 +8,7 @@
 ##  Projects in Focus
 - apple‑landing‑page – Apple homepage clone
 - Spotify‑clone – Interface clone
-- car‑paradise – Car showcase site 
+- car‑paradise – Car showroom site 
 - E‑website – A JavaScript-enhanced site
 
 > “Building projects regularly helps me grow and learn with purpose.”
