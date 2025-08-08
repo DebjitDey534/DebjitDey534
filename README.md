@@ -1,16 +1,15 @@
-## Hi there 👋
+## ​ Hey, I'm Debjit Dey
 
-<!--
-**DebjitDey534/DebjitDey534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech at VIT Vellore  
+💻 Frontend Enthusiast — HTML, CSS, JavaScript  
+🌱 Currently exploring React & APIs  
+📫 Connect: [LinkedIn](https://linkedin.com/in/debjit-dey-m92)
 
-Here are some ideas to get you started:
+##  Projects in Focus
+- apple‑landing‑page – Apple homepage clone
+- Spotify‑clone – Interface clone
+- car‑paradise – Car showcase site 
+- E‑website – A JavaScript-enhanced site
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “Building projects regularly helps me grow and learn with purpose.”
+
