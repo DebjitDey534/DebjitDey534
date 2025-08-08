@@ -1,4 +1,4 @@
-## ​ Hey, I'm Debjit Dey
+# ​ Hey, I'm Debjit Dey
 
 🎓 BTech at VIT Vellore  
 💻 Frontend Enthusiast — HTML, CSS, JavaScript  
